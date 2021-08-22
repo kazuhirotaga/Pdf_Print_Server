@@ -71,7 +71,7 @@ namespace PDFPrint
                             }
                         }
 
-                        fileDel(filename);
+                        fileDel(Watch_folder);
                         filename = string.Empty;
                     }
                 }
