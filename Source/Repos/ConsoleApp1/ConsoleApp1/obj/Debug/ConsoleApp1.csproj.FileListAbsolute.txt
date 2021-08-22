@@ -1,0 +1,12 @@
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfiumViewer.dll
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfiumViewer.xml
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ikaru\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\x86\pdfium.dll
